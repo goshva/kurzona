@@ -1,7 +1,6 @@
-#baseURL = "https://kurzona.ru"
 languageCode = "ru-ru"
 defaultContentLanguage = "ru"
-title = "Турфирма Кисловодск"
+title = "Турфирма Курзона Кисловодск"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -38,7 +37,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   homeSubtitle ='<a href="tel:+79620009922">Звоните:  89620009922</a>'
   homeSubtitleHref ='<a href="tel:+79620009922">Звоните:  89620009922</a>'
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerCopyright = ' &#183; <a href="https://github.com/goshva/kurzona" target="_blank" rel="noopener">Кисловоск</a>'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
