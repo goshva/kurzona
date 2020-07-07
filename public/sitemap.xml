@@ -3,12 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/chegem/</loc>
+    <lastmod>2020-07-07T07:41:58+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ceiskoe/</loc>
+    <lastmod>2020-07-06T21:35:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/essentuki/</loc>
+    <lastmod>2020-07-06T21:34:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/pyatigorsk/</loc>
+    <lastmod>2020-07-06T21:34:16+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bermamit/</loc>
+    <lastmod>2020-07-06T21:33:30+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/dombai/</loc>
+    <lastmod>2020-07-06T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/caves/</loc>
+    <lastmod>2020-07-06T21:32:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/narzan/</loc>
+    <lastmod>2020-07-06T21:31:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/kolco/</loc>
+    <lastmod>2020-07-06T21:31:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/dzhilisu/</loc>
+    <lastmod>2020-07-06T21:30:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/arhuz/</loc>
+    <lastmod>2020-07-06T21:30:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ulutau/</loc>
+    <lastmod>2020-07-06T21:29:50+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/elbrus/</loc>
+    <lastmod>2020-07-06T21:29:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/forel/</loc>
+    <lastmod>2020-07-06T21:28:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/dolphin/</loc>
+    <lastmod>2020-07-06T21:25:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/terkazaks/</loc>
+    <lastmod>2020-07-06T21:24:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-06-26T21:05:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-07-07T07:41:58+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/untagged/</loc>
+    <lastmod>2020-07-07T07:41:58+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2020-07-07T07:41:58+03:00</lastmod>
     <priority>0</priority>
   </url>
   
