@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/shadzhatmaz/</loc>
+    <lastmod>2020-07-15T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/chegem/</loc>
     <lastmod>2020-07-07T07:41:58+03:00</lastmod>
   </url>
@@ -29,6 +34,11 @@
   
   <url>
     <loc>/posts/dombai/</loc>
+    <lastmod>2020-07-06T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/zakat/</loc>
     <lastmod>2020-07-06T21:32:59+03:00</lastmod>
   </url>
   
@@ -89,7 +99,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-07-07T07:41:58+03:00</lastmod>
+    <lastmod>2020-07-15T21:32:59+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,8 +115,20 @@
   </url>
   
   <url>
+    <loc>/tags/%D0%B2%D0%B5%D1%87%D0%B5%D1%80/</loc>
+    <lastmod>2020-07-15T21:32:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%BD%D0%BE%D1%87%D1%8C/</loc>
+    <lastmod>2020-07-15T21:32:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-07-07T07:41:58+03:00</lastmod>
+    <lastmod>2020-07-15T21:32:59+03:00</lastmod>
     <priority>0</priority>
   </url>
   
