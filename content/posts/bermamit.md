@@ -1,5 +1,6 @@
 ---
-title: "Bermamit"
+title: "Бермамыт"
+descripion: ""
 date: 2020-07-06T21:33:30+03:00
 toc: false
 images:

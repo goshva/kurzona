@@ -1,6 +1,6 @@
 ---
-title: "SHadzhatmaz"
-descripion: "test"
+title: "Шаджатмаз"
+descripion: "Лайт эстрим на великах с Обсерватории Шаджатмаз"
 date: 2020-07-15T21:32:59+03:00
 toc: false
 images:

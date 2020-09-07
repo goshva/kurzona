@@ -1,6 +1,6 @@
 ---
-title: "Zakat"
-descripion: "test"
+title: "Закат"
+descripion: "3-ёх часовая экскурсия с видом на город Кисловоск"
 date: 2020-07-06T21:32:59+03:00
 toc: false
 images:

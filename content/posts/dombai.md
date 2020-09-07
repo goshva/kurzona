@@ -1,5 +1,6 @@
 ---
-title: "Dombai"
+title: "Домбай"
+descripion: ""
 date: 2020-07-06T21:32:59+03:00
 toc: false
 images:
