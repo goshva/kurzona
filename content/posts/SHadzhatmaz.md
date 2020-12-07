@@ -21,6 +21,6 @@ tags:
 [89620009922](tel:+79620009922)
 [89262835323](tel:+79262835323)
 
-{{< youtube 67oUXv0t9-w >}}
+{{< youtube 67oUXv0t9-w >}} видео от [artclip](https://artclip.ru)©
 
 ![koster](/img/photo_2020-07-16_18-27-37.jpg)
