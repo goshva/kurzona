@@ -6,14 +6,14 @@ date: 2021-05-05
 | Санаторий | Yand | Goog | YouT | ₽ |
 |-----------|------|------|------|---|
 |[Арника]("https://arnika.vip/)|   4.5   |   4.7   |      |   |
-|[Виктория]("https://victoria-kmv.ru/)| 4.7      |      |      |   |	
+|[Виктория]("https://victoria-kmv.ru/)| 4.7      |      |      |  -1000 |	
 |[Военный]("https://www.vskislovodsk.ru)| 4.7      |      |      |   |	
 |[Вилла Арнест](http://www.villa-arnest.ru/)|  4.6    |  4.1    |   4.5   |   |	
 |[Джинал]("https://www.djinal.ru/)|      |   4.2   |      |   |	
 |[Долина Нарзанов]("https://rzdz-dnk.ru/)|   4.9   |  4.4    | 4.5     |   |	
-|[Жемчужина Кавказа]()	
-|[Заря](https://zarya.ru) ||||
-|[Горького]("https://sangork.ru/)|   4.7   |      |      |   |	
+|[Жемчужина Кавказа]()	||||
+|[Заря](https://zarya.ru) |||500|
+|[Горького]("https://sangork.ru/)|   4.7   |      |  4    |   |	
 |[Димитрова]() | 4.2 
 |[Орджоникидзе](http://www.sergos.ru/)|      |      |  4.2    |   |	
 |[Кирова](https://kirova.ru/)|      |      |      |   |	
@@ -32,8 +32,8 @@ date: 2021-05-05
 |[Пикет](https://piket-kmv.ru/)|   4.0   |      |      |   |	
 |[Плаза](https://plazaspa.net/)|      |  4.7    |      |   |
 |[Родник]("https://rodnik-cmw.ru/)|      |    4.5  |      |   |	
-|[Россия]()	
-|[Самара](http://samara-kmv.ru/)|      |      |      |   |	
+|[Россия]()	||5|||
+|[Самара](http://samara-kmv.ru/)|      |  4.2    |      |   |	
 |[Семицветик](https://semicvetik-sanat.ru/)|      |      |      |   |	
 |[Смена]("https://skfmba.ru/)|   4.3   |      |      |   |smena	
 |[Солнечный]("https://www.san-solnechniy.com/)|   4.4   |   4.5   |      |   |
@@ -42,6 +42,6 @@ date: 2021-05-05
 |[Факел](http://fakelkislovodsk.ru/)|   4.5   | 4.0     |  4.4    |   |	
 |[Целебный нарзан]("https://cnarzan.ru/)|   4.9   |  4.6    |      |   |	
 |[Центросоюз]("https://centrosouz.com/)|    4.7  |  4.7    |      |   |
-|[Электроника](http://www.electron-kmv.ru/)|   4.5   |      |      |   |	
+|[Электроника](http://www.electron-kmv.ru/)|   4.5   |  |   4.6   |   |	
 |[Эльбрус](https://эльбрус.дт.мвд.рф/)|      |   4.2   |      |   |
 |[Кисловодск (МВД)]()	| 4.1 
