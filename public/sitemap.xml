@@ -4,31 +4,206 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2021-07-11T21:32:59+03:00</lastmod>
+    <lastmod>2021-07-13T21:32:59+03:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-07-11T21:32:59+03:00</lastmod>
+    <lastmod>2021-07-13T21:32:59+03:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/%D0%B4%D0%B5%D0%BD%D1%8C/</loc>
-    <lastmod>2021-07-11T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/kolonada/</loc>
-    <lastmod>2021-07-11T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/demon/</loc>
-    <lastmod>2021-07-11T21:32:59+03:00</lastmod>
+    <lastmod>2021-07-13T21:32:59+03:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-07-13T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/astronomicheskaya-stantsiya/</loc>
+    <lastmod>2021-07-13T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/kaskadnaya-lestnitsa/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/demon/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bolshoe-i-maloe-sedlo/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/dolina-narzanov/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/filarmoniya/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/geroyam-medikam/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/gornolyzhnyy-kurort/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hram-vozduha/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/kislovodskiy-delfinariy/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/koleso-obozreniya/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/koltso-gora/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/krasnye-kamni/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/krest-na-krestovoy-gore/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/krestovozdvizhenskaya-tserkov/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lermontovskaya-skala/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lermontovskiy-vodopad/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/medovye-vodopady/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/mostik-damskiy-kapriz/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/muzey-dacha-shalyapina/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/muzey-krepost/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/muzey-usadba-hudozhnika/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/pamyatnik-m.-yu.-lermontovu/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/pamyatnik-nikolayu-chudotvortsu/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/pamyatnik-zhuravli/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/poyuschiy-fontan/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/shalyapin/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/skulptura-krokodil-v-doline-roz/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/svyato-nikolskiy-sobor/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/teatr-muzey-blagodat/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/tserkov-panteleimona-tselitelya/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/tsirk-imeni-g.-m.-trahtenberga/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/tsvetochnyy-kalendar/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/vardana-mamikonyana/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/zamok-kovarstva-i-lyubvi/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/zerkalnyy-prud-i-steklyannaya-struya/</loc>
+    <lastmod>2021-07-12T21:32:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/kolonada/</loc>
     <lastmod>2021-07-11T21:32:59+03:00</lastmod>
   </url>
   
