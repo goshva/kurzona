@@ -1,368 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/posts/</loc>
     <lastmod>2021-09-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-09-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/%D0%B4%D0%B5%D0%BD%D1%8C/</loc>
     <lastmod>2021-09-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/koleso-obozreniya/</loc>
     <lastmod>2021-09-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2021-09-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/mostik-damskiy-kapriz/</loc>
     <lastmod>2021-09-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/vardana-mamikonyana/</loc>
     <lastmod>2021-09-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/koltso-gora/</loc>
     <lastmod>2021-08-31T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/tsvetochnyy-kalendar/</loc>
     <lastmod>2021-08-22T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/zerkalnyy-prud-i-steklyannaya-struya/</loc>
     <lastmod>2021-08-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/dolina-narzanov/</loc>
     <lastmod>2021-08-14T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/bolshoe-i-maloe-sedlo/</loc>
     <lastmod>2021-08-10T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/shalyapin/</loc>
     <lastmod>2021-07-30T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/kislovodskiy-delfinariy/</loc>
     <lastmod>2021-07-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/kaskadnaya-lestnitsa/</loc>
     <lastmod>2021-07-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/demon/</loc>
     <lastmod>2021-07-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/muzey-dacha-shalyapina/</loc>
     <lastmod>2021-07-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/svyato-nikolskiy-sobor/</loc>
     <lastmod>2021-07-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/hram-vozduha/</loc>
     <lastmod>2021-07-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/tserkov-panteleimona-tselitelya/</loc>
     <lastmod>2021-07-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/kolonada/</loc>
     <lastmod>2021-07-11T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/lermontovskiy-vodopad/</loc>
     <lastmod>2021-07-11T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/geroyam-medikam/</loc>
     <lastmod>2021-07-11T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/7vetrov/</loc>
     <lastmod>2021-07-10T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/ternkur/</loc>
     <lastmod>2021-07-10T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/kanatka/</loc>
     <lastmod>2021-07-09T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/krestovozdvizhenskaya-tserkov/</loc>
     <lastmod>2021-07-09T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/glavnarzanvan/</loc>
     <lastmod>2021-07-08T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/kbulvar/</loc>
     <lastmod>2021-07-07T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/narzagal/</loc>
     <lastmod>2021-07-07T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/kpark/</loc>
     <lastmod>2021-07-06T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/rosedol/</loc>
     <lastmod>2021-07-01T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/krest-na-krestovoy-gore/</loc>
     <lastmod>2021-06-22T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/muzey-krepost/</loc>
     <lastmod>2021-06-10T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/krasnye-kamni/</loc>
     <lastmod>2021-05-25T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/medovye-vodopady/</loc>
     <lastmod>2021-05-22T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/pamyatnik-nikolayu-chudotvortsu/</loc>
     <lastmod>2021-05-22T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/zamok-kovarstva-i-lyubvi/</loc>
     <lastmod>2021-05-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/top/august/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/top/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/muzey-usadba-hudozhnika/</loc>
     <lastmod>2021-04-22T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/skulptura-krokodil-v-doline-roz/</loc>
     <lastmod>2021-04-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/teatr-muzey-blagodat/</loc>
     <lastmod>2021-04-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/pamyatnik-m.-yu.-lermontovu/</loc>
     <lastmod>2021-03-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/pamyatnik-zhuravli/</loc>
     <lastmod>2021-03-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/poyuschiy-fontan/</loc>
     <lastmod>2021-03-12T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/gornolyzhnyy-kurort/</loc>
     <lastmod>2021-02-17T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/astronomicheskaya-stantsiya/</loc>
     <lastmod>2021-01-13T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/%D0%BD%D0%BE%D1%87%D1%8C/</loc>
     <lastmod>2021-01-13T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/kolya/</loc>
     <lastmod>2020-12-06T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/horse/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/%D0%B2%D0%B5%D1%87%D0%B5%D1%80/</loc>
     <lastmod>2020-07-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/shadzhatmaz/</loc>
     <lastmod>2020-07-15T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/untagged/</loc>
     <lastmod>2020-07-07T07:41:58+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/chegem/</loc>
     <lastmod>2020-07-07T07:41:58+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/ceiskoe/</loc>
     <lastmod>2020-07-06T21:35:20+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/essentuki/</loc>
     <lastmod>2020-07-06T21:34:42+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/pyatigorsk/</loc>
     <lastmod>2020-07-06T21:34:16+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/bermamit/</loc>
     <lastmod>2020-07-06T21:33:30+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/dombai/</loc>
     <lastmod>2020-07-06T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/zakat/</loc>
     <lastmod>2020-07-06T21:32:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/caves/</loc>
     <lastmod>2020-07-06T21:32:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/narzan/</loc>
     <lastmod>2020-07-06T21:31:34+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/koltso-medovye-zamok/</loc>
     <lastmod>2020-07-06T21:31:02+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/dzhilisu/</loc>
     <lastmod>2020-07-06T21:30:38+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/arhuz/</loc>
     <lastmod>2020-07-06T21:30:14+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/ulutau/</loc>
     <lastmod>2020-07-06T21:29:50+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/elbrus/</loc>
     <lastmod>2020-07-06T21:29:22+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/forel/</loc>
     <lastmod>2020-07-06T21:28:43+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/dolphin/</loc>
     <lastmod>2020-07-06T21:25:26+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/terkazaks/</loc>
     <lastmod>2020-07-06T21:24:25+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/hackaton/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/o/</loc>
   </url>
-  
 </urlset>
