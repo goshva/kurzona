@@ -76,6 +76,11 @@ disqusShortname = "kurzona-ru"
     weight = 20
 
   [[menu.main]]
+    name = "Активности"
+    url = "../tags/"
+    weight = 25
+
+  [[menu.main]]
     name = "Рейтинг санаториев Кисловодска"
     url = "../top/"
     weight = 30

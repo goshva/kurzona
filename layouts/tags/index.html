@@ -1,0 +1,33 @@
+{{ define "header" }}
+{{ partialCached "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+	<main class="site-main section-inner thin animated fadeIn faster">
+		{{- if .Content }}
+		<div class="content">
+			{{ .Content }}
+		</div>
+		{{- end }}
+		
+		<div class="posts-group">
+			<div class="post-year">Акивности</div>
+			<ul class="posts-list">
+				{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+				
+				<li class="post-item">
+					<a href="/tags/{{ $name | urlize }}">
+						<span class="post-title">{{ $name | humanize}}</span>
+						<span class="post-day">{{ $taxonomy.Count }}</span>
+					</a>
+				</li>
+				{{- end }}
+			</ul>
+		</div>
+
+	</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partialCached "footer.html" . }}
+{{ end }}
